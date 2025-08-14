@@ -12,5 +12,5 @@ This section covers building my dedicated cybersecurity homelab using Oracle Vir
 The homelab is complete, stable, and documented with inline proof screenshots.
 
 ## Documentation 
-- [Lab Setup](../section_1_homelab_setup/docs/lab_setup.md)
+- [Lab Setup](docs/Section_1_Lab_Design.md)
 - [Changelog](../../CHANGELOG.md)
