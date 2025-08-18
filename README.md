@@ -16,3 +16,8 @@ All work is performed on a Lenovo IdeaPad 1 with 12 GB RAM using Oracle VirtualB
 	- Installed Oracle VirtualBox on host machine
 	- Created and configured Windows 10 and Ubuntu Server VMs
 	- Set up NAT + Host-Only networking
+
+2. [Section 2 - Linux Fundamentals for Security Pros](sections/section_2_linux_fundamentals_for_security_pros)
+	- Added a dedicated analyst user to follow least-privilege
+	- Set and verified file permissions for access control.
+	- Reviewed authentication and system logs for security monitoring.
