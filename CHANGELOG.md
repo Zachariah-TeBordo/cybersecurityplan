@@ -24,3 +24,14 @@
 
 ### Documented
 	- Study Notes
+	- Lab Setup
+
+## Section 3 - Windows Internals for Security Pros
+- Created Section 3 folder and initial README.
+- Added lab review for enabling auditing, generating failed logons, and filtering Event Viewer logs.
+- Captured and uploaded screenshots for:
+	- Auditing configuration
+	- Filter dialog for Event ID 4625
+	- Filtered results list
+	- Event 4625 details (General, Friendly View, XML)
+- Updated changelog and Readme

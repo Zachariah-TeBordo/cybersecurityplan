@@ -21,3 +21,7 @@ All work is performed on a Lenovo IdeaPad 1 with 12 GB RAM using Oracle VirtualB
 	- Added a dedicated analyst user to follow least-privilege
 	- Set and verified file permissions for access control.
 	- Reviewed authentication and system logs for security monitoring.
+
+3. [Section 3 - Windows Internals for Security Pros](sections/section_3_windows_internals/README.md)
+	- Learned how Windows records logon activity and surfaces failed logons.
+	- Enabled auditing, generated failed logons, and filtered logs for Event ID 4625.
