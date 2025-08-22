@@ -20,5 +20,5 @@ I learned how Windows records logon activity and how to surface failed login att
 	- Details of a failed logon event in both General and Details tabs.
 
 ## Documentation
-- [Lab Setup](docs/lab_setup.md)
+- [Lab Setup](docs/labsetup.md)
 - [Changelog](../../CHANGELOG.md)
