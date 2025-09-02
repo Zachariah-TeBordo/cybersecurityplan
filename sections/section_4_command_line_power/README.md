@@ -11,8 +11,8 @@ Compare scripting in Bash and PowerShell by solving the same problem in both env
 - Verified both scripts against the sample logs, confirming functional equivalence.
 
 ## Deliverables
-- 'docs/scripts/find_errors.sh' - Bash log search script.
-- 'docs/scripts/Find-Errors.ps1' - PowerShell log search script.
-- 'docs/command_log.md' - record of commands executed during the lab.
-- 'labsetup.md' - recap with reflections and screenshots
+- [Bash log search script](docs/scripts/find_errors.sh) 
+- [PowerShell log search script](docs/scripts/Find-Errors.ps1)
+- [Commands executed during the lab](docs/command_log.md)
+- [Lab Setup](docs/labsetup.md) - recap with reflections and screenshots
 
