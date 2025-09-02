@@ -25,3 +25,7 @@ All work is performed on a Lenovo IdeaPad 1 with 12 GB RAM using Oracle VirtualB
 3. [Section 3 - Windows Internals for Security Pros](sections/section_3_windows_internals/README.md)
 	- Learned how Windows records logon activity and surfaces failed logons.
 	- Enabled auditing, generated failed logons, and filtered logs for Event ID 4625.
+
+4. [Section 4 - Command Line Power](sections/section_4_command_line_power/README.md)
+	- Wrote Bash & Powershell scripts to scan log files for ERROR/WARN.
+	- Learned text vs object pipelines, tested with sample logs, and linted Bash.

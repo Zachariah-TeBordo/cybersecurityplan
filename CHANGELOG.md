@@ -35,3 +35,9 @@
 	- Filtered results list
 	- Event 4625 details (General, Friendly View, XML)
 - Updated changelog and Readme
+
+## Section 4 – Command Line Power (2025-08-22)
+- Created test log files on Ubuntu and Windows for consistent cross-platform validation.  
+- Developed Bash script (`find_errors.sh`) and PowerShell script (`Find-Errors.ps1`) to scan logs for ERROR/WARN.  
+- Linted Bash script with ShellCheck and confirmed best practices.  
+- Recorded work in `labsetup.md`, detailed command log, and structured screenshots into GitHub.  
