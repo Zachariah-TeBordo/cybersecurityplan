@@ -29,3 +29,8 @@ All work is performed on a Lenovo IdeaPad 1 with 12 GB RAM using Oracle VirtualB
 4. [Section 4 - Command Line Power](sections/section_4_command_line_power/README.md)
 	- Wrote Bash & Powershell scripts to scan log files for ERROR/WARN.
 	- Learned text vs object pipelines, tested with sample logs, and linted Bash.
+
+5. [Section 5 – Networking Fundamentals I](sections/section_5_networking_fundamentals/README.md)  
+   - Captured and analyzed DNS and HTTP traffic in Wireshark.  
+   - Annotated packet captures and exported PDF write-up.  
+   - Documented lab setup with screenshots.  

@@ -41,3 +41,10 @@
 - Developed Bash script (`find_errors.sh`) and PowerShell script (`Find-Errors.ps1`) to scan logs for ERROR/WARN.  
 - Linted Bash script with ShellCheck and confirmed best practices.  
 - Recorded work in `labsetup.md`, detailed command log, and structured screenshots into GitHub.  
+
+## Section 5 – Networking Fundamentals I
+- Captured DNS and HTTP traffic in Wireshark.
+- Annotated packets and exported capture write-up as PDF.
+- Added lab_setup.md as portfolio record of actions taken.
+- Stored packet capture file in docs/.
+
