@@ -34,3 +34,8 @@ All work is performed on a Lenovo IdeaPad 1 with 12 GB RAM using Oracle VirtualB
    - Captured and analyzed DNS and HTTP traffic in Wireshark.  
    - Annotated packet captures and exported PDF write-up.  
    - Documented lab setup with screenshots.  
+
+6. [Section 6 – Networking Fundamentals II](sections/section_6_networking_fundamentals_ii/README.md)  
+   - Installed Cisco Packet Tracer on host  
+   - Built VLANs on a 3650 with SVIs as gateways  
+   - Verified inter-VLAN routing with pings and routing table evidence  

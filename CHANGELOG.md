@@ -48,3 +48,12 @@
 - Added lab_setup.md as portfolio record of actions taken.
 - Stored packet capture file in docs/.
 
+## Section 6 – Networking Fundamentals II
+- Installed Packet Tracer on host.  
+- Built topology with 3650 switch and two PCs.  
+- Configured VLAN 10 and VLAN 20.  
+- Assigned ports Gi1/0/1 and Gi1/0/2 to access VLANs.  
+- Created SVIs with gateway IPs 192.168.10.1 and 192.168.20.1.  
+- Enabled `ip routing` for inter-VLAN connectivity.  
+- Verified routing table and connectivity with pings.  
+- Saved Packet Tracer project, running config, and screenshots.  
