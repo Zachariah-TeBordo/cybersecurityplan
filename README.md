@@ -39,3 +39,14 @@ All work is performed on a Lenovo IdeaPad 1 with 12 GB RAM using Oracle VirtualB
    - Installed Cisco Packet Tracer on host  
    - Built VLANs on a 3650 with SVIs as gateways  
    - Verified inter-VLAN routing with pings and routing table evidence  
+
+
+---
+
+## Additional Work
+
+### TryHackMe Certificates
+[View Certificates](tryhackme/README.md)  
+• Certificates of completion from TryHackMe rooms and learning paths.  
+• Visual proof of ongoing security training and applied labs.  
+
