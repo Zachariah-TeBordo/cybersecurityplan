@@ -31,19 +31,19 @@ All work is performed on a Lenovo IdeaPad 1 with 12 GB RAM using Oracle VirtualB
 	- Learned text vs object pipelines, tested with sample logs, and linted Bash.
 
 5. [Section 5 – Networking Fundamentals I](sections/section_5_networking_fundamentals/README.md)  
-   - Captured and analyzed DNS and HTTP traffic in Wireshark.  
-   - Annotated packet captures and exported PDF write-up.  
-   - Documented lab setup with screenshots.  
+  	 - Captured and analyzed DNS and HTTP traffic in Wireshark.  
+   	- Annotated packet captures and exported PDF write-up.  
+   	- Documented lab setup with screenshots.  
 
 6. [Section 6 – Networking Fundamentals II](sections/section_6_networking_fundamentals_ii/README.md)  
-   - Installed Cisco Packet Tracer on host  
-   - Built VLANs on a 3650 with SVIs as gateways  
-   - Verified inter-VLAN routing with pings and routing table evidence  
+   	- Installed Cisco Packet Tracer on host  
+   	- Built VLANs on a 3650 with SVIs as gateways  
+   	- Verified inter-VLAN routing with pings and routing table evidence  
 
 
 7. [Section 7 – Firewalls & ACLs](sections/section_7_firewalls_acls/README.md)  
-  - Implemented a default-deny nftables firewall on Ubuntu.  
-  - Allowed ICMP and HTTP from Windows client; explicitly blocked SSH with kernel logging.  
+  	- Implemented a default-deny nftables firewall on Ubuntu.  
+  	- Allowed ICMP and HTTP from Windows client; explicitly blocked SSH with kernel logging.  
 
 
 ---
