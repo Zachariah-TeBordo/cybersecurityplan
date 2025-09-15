@@ -41,6 +41,11 @@ All work is performed on a Lenovo IdeaPad 1 with 12 GB RAM using Oracle VirtualB
    - Verified inter-VLAN routing with pings and routing table evidence  
 
 
+7. [Section 7 – Firewalls & ACLs](sections/section_7_firewalls_acls/README.md)  
+  - Implemented a default-deny nftables firewall on Ubuntu.  
+  - Allowed ICMP and HTTP from Windows client; explicitly blocked SSH with kernel logging.  
+
+
 ---
 
 ## Additional Work

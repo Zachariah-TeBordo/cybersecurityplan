@@ -57,3 +57,8 @@
 - Enabled `ip routing` for inter-VLAN connectivity.  
 - Verified routing table and connectivity with pings.  
 - Saved Packet Tracer project, running config, and screenshots.  
+
+# Changelog – Section 7
+
+- 2025-09-14: Initial Section 7 deliverables — nftables firewall created with ICMP/HTTP allowed, SSH denied, kernel logs captured.
+
