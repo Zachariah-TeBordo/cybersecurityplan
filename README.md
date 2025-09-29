@@ -45,6 +45,12 @@ All work is performed on a Lenovo IdeaPad 1 with 12 GB RAM using Oracle VirtualB
   	- Implemented a default-deny nftables firewall on Ubuntu.  
   	- Allowed ICMP and HTTP from Windows client; explicitly blocked SSH with kernel logging.  
 
+8. [Section 8 – IDS/IPS & Traffic Analysis](sections/section_08_ids_ips_traffic_analysis/README.md)  
+  - Deployed Suricata as IDS and inline IPS on Ubuntu; generated controlled HTTP test traffic.  
+  - Wrote custom User-Agent rule and proved detection (IDS) and prevention (IPS via NFQUEUE + nftables).  
+  - Published artifacts: rules, commands, and screenshot evidence in labsetup.md.  
+
+
 
 ---
 

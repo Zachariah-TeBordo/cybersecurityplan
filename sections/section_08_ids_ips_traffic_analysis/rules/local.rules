@@ -1,0 +1,9 @@
+# IDS alert on a test User-Agent
+alert http any any -> $HOME_NET 8080 (msg:"Local test HTTP User-Agent BadBrowser";
+  flow:to_server,established; http.user_agent; content:"BadBrowser"; nocase;
+  sid:1000001; rev:1;)
+
+# IPS drop on the same indicator
+drop http any any -> $HOME_NET 8080 (msg:"DROP test HTTP BadBrowser";
+  flow:to_server,established; http.user_agent; content:"BadBrowser"; nocase;
+  sid:1000002; rev:1;)

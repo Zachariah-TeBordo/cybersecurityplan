@@ -62,3 +62,7 @@
 
 - 2025-09-14: Initial Section 7 deliverables — nftables firewall created with ICMP/HTTP allowed, SSH denied, kernel logs captured.
 
+## 2025-09-28
+- Added Section 8 – IDS/IPS & Traffic Analysis (Suricata IDS/IPS with NFQUEUE, custom BadBrowser rule, artifacts published).
+
+
